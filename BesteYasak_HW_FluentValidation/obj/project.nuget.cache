@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vi0Mw2yueaUVNeZW2ZCpAMvZm60Nn99kgX4xbHYr/xWWRz97iWeaek4IXAHXPKZnUz2YIR386NvuAc2Tu49Bug==",
+  "success": true,
+  "projectFilePath": "D:\\KD14\\Sipay\\1_hafta\\Odev_1\\BesteYasak_HW_FluentValidation\\BesteYasak_HW_FluentValidation\\BesteYasak_HW_FluentValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beyas\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Beyas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

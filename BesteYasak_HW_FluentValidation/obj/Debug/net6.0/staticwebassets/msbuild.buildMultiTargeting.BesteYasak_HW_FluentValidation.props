@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BesteYasak_HW_FluentValidation.props" />
+</Project>
